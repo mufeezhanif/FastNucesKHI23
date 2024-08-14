@@ -1,0 +1,10 @@
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+submit the screen shot of all the commands mentioned here
+
+make sure to create a folder of your roll number in your home directory and switch to that directory and then attempt these commands
+
+online environment to work on ubuntu:
+1) https://www.tutorialspoint.com/linux_terminal_online.php
+
+2) https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-22

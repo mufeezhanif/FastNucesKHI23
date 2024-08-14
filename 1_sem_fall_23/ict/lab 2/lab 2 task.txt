@@ -1,0 +1,56 @@
+Please upload the final gsheet link 
+task: alteast 20 functions 
+
+some of the basic function names for are written below.
+
+1. Mathematical Functions:
+
+SUM: Adds up a range of numbers.
+AVERAGE: Calculates the average of a range of numbers.
+MAX: Returns the maximum value in a range.
+MIN: Returns the minimum value in a range.
+
+2. Text Functions:
+
+CONCATENATE: Combines multiple text strings into one.
+LEN: Calculates the length of a text string.
+LEFT and RIGHT: Extracts a specified number of characters from the left or right of a text string.
+
+3. Date and Time Functions:
+
+TODAY: Returns the current date.
+NOW: Returns the current date and time.
+DATE: Creates a date from year, month, and day values.
+TIME: Creates a time value from hour, minute, and second values.
+
+4. Logical Functions:
+
+IF: Returns one value if a condition is true and another if it's false.
+AND: Checks if all specified conditions are true.
+OR: Checks if at least one of the specified conditions is true.
+
+5. Lookup and Reference Functions:
+
+VLOOKUP: Searches for a value in a vertical range and returns a corresponding value from another column.
+HLOOKUP: Similar to VLOOKUP but for horizontal ranges.
+INDEX: Returns the value of a cell at a specified row and column in a range.
+
+6. Financial Functions:
+
+PV: Calculates the present value of an investment.
+FV: Calculates the future value of an investment.
+NPV: Calculates the net present value of a series of cash flows.
+
+7. Statistical Functions:
+
+COUNT: Counts the number of cells that contain numbers.
+STDEV: Calculates the standard deviation of a range of numbers.
+CORREL: Calculates the correlation coefficient between two ranges of numbers.
+
+8. Information Functions:
+
+ISNUMBER: Checks if a value is a number.
+ISTEXT: Checks if a value is text.
+ISBLANK: Checks if a cell is empty.
+
+please make sure to upload urls of your gsheet and do ensure its extension

@@ -1,0 +1,23 @@
+Attempt the following conversions: 
+
+1) Binary to Decimal 
+2) Decimal to Binary
+
+3) Binary to Octal
+4) Octal to Binary
+
+5) Binary to Hexa Decimal
+6) Hexa Decimal to Binary 
+
+7) Decimal to Octal
+8) Octal to Decimal
+
+9) Decimal to Hexa Decimal
+10) Hexa Decimal to Decimal
+
+11) Hexa Decimal to Octal
+12) Octal to Hexa Decimal
+
+What to do:
+a) Make 5 questions each (12 * 5) = 60 by your own 
+b) Assignment must be hand written with all steps shown

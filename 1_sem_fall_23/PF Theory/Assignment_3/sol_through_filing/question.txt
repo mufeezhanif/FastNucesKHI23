@@ -1,0 +1,16 @@
+Write a C program for student management records that utilizes file handling and structures. The program should offer functionalities such as creating student records, displaying them in a tabular format, appending additional records, displaying the total number of records, searching for a student based on roll number, updating student information based on their name, and deleting records based on the roll number. The user is prompted to enter details for multiple students, including their roll number, name, and marks for three subjects. The records are stored in a file specified by the user.
+A student have its roll no and name and 3 subjects along with their marks
+
+
+
+- create new record
+- display in tabular form
+- append additional record
+- total num of records
+- search student on roll no
+- update details based on thier name
+- delete based on roll no
+details
+		- roll no
+		- name
+		- marks of 3 subjects

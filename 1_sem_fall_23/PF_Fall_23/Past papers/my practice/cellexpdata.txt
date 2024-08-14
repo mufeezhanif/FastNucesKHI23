@@ -1,0 +1,5 @@
+Gnames LungCell SkinCell IntestineCell LiverCell KidneyCell
+Gene1 2.3 1.7 4.3 3.4 4.5
+Gene2 1.5 3.6 8.1 5.5 2.9
+Gene3 4.1 6.6 5.3 3.9 8.1
+Gene4 9.9 2.7 6.2 5.8 3.3

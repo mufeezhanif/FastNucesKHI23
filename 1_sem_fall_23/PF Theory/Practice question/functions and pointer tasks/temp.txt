@@ -1,0 +1,10 @@
+Dear Students, 
+
+Following are few practice questions for you:
+Write a program to calculate power of 8 for any given number. For Ex: if the input is 2, then the function should calculate 2 power 8 = 256 and print.
+Write a program which calculate profit on items (Laptop, Mobile and Watch). The profit for any given value is 20%.
+Write a program which takes input mid1 and mid2 score for 5 students and calculates Min, Max and average.  
+Write a function which takes three numbers and tells user to which one highest and lowest.
+Write a function which generates right angle triangle of 10 rows.  
+Asad wants to calculate profit on all his five of his shops. The profit margin is 25% on given value. Write a program using functions which passes shops values as arguments and calculate profit for all separately and also calculates total profit. 
+Regards

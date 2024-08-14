@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form - 23k0800</title>
+    
+  </head>
+  <style>
+    main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3%;
+}
+form {
+  background-color: antiquewhite;
+  padding: 50px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+form div {
+  padding: 1%;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5%;
+}
+form div label {
+  font-size: large;
+  font-family: cursive;
+}
+div input {
+  width: 90%;
+  margin-right: 5px;
+}
+.buttons {
+  justify-content: space-between;
+}
+.buttons button {
+  width: 46%;
+  font-size: large;
+  border: none;
+  padding: 0.5%;
+  border-radius: 5px;
+  color: white;
+}
+#reset {
+  background-color: rgb(233, 78, 78);
+}
+#submit {
+  background-color: rgb(15, 165, 45);
+}
+
+  </style>
+  <body>
+    <main>
+      <form action="paste.html" method="GET" enctype="multipart/form-data">
+        <div>
+          <label for="fname">FirstName</label>
+          <input required type="text" name="fname" id="name" required />
+        </div>
+        <div>
+          <label for="lname">LastName</label>
+          <input required type="text" name="lname" id="name" required />
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input required type="email" name="email" id="email" required />
+        </div>
+        <div>
+            <label for="password"> Password</label>
+            <input required type="password" name="password" />
+          </div>
+        
+        <div>
+          <label for="date">Birthdate</label>
+          <input required type="date" name="date" id="date" min="2000-06-10" />
+        </div>
+        <div>
+          <label>Favorite Food</label>
+          <div>
+            <label for="banana">Banana</label>
+            <input  type="checkbox" name="banana" id="banana" />
+
+            <label for="apple">Apple</label>
+            <input  type="checkbox" name="apple" id="apple" />
+          </div>
+        </div>
+        <div>
+          <label>Gender</label>
+          <div id="gender">
+            <label for="male">Male</label>
+            <input required type="radio" name="gender" id="male" value="male" />
+
+            <label for="female">Female</label>
+            <input required type="radio" name="gender" id="female" value="female" />
+          </div>
+        </div>
+        
+        <div>
+          <label for="bio">Bio</label>
+          <textarea required id="bio" name="bio" cols="100"></textarea>
+        </div>
+        <div>
+          <label for="file">Picture</label>
+          <input required id="file" type="file" name="file" />
+        </div>
+        <div>
+          <label for="phone">Phone</label>
+          <input required type="tel" name="phone" id="phone" />
+        </div>
+        <div>
+          <label for="url">Linkedin</label>
+          <input required type="url" name="url" id="url" />
+        </div>
+        
+        <div class="buttons">
+          <button type="reset" id="reset">Reset</button>
+          <button type="submit" id="submit">Submit</button>
+        </div>
+      </form>
+    </main>
+  </body>
+</html>
